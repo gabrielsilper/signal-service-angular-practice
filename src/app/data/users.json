@@ -3,6 +3,7 @@
     "id": 1,
     "email": "admin@email.com",
     "password": "admin123",
+    "name": "Admin da Silva",
     "roles": "ADMINISTRATOR",
     "isActive": true
   },
@@ -10,6 +11,7 @@
     "id": 2,
     "email": "manager@email.com",
     "password": "manager123",
+    "name": "Manager Pereira",
     "roles": "MANAGER",
     "isActive": true
   },
@@ -17,6 +19,7 @@
     "id": 3,
     "email": "user@email.com",
     "password": "user123",
+    "name": "User Macedo",
     "roles": "USER",
     "isActive": true
   }
